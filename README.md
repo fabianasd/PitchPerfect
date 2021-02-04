@@ -1,6 +1,6 @@
 ## PitchPerfect
 
-#### Aplicativo para iPhone que grava áudio e o reproduz com saídas modificadas.
+#### Aplicativo para iPhone que grava áudio e o reproduz com diferentes efeitos.
 
 ## Visualização: IPhone SE (2nd generation)
 
