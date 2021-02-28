@@ -6,8 +6,8 @@
 
 ### Home
 
-![Orders](https://raw.githubusercontent.com/fabianasd/PitchPerfect/master/imagemApp/home.png)
+![Orders](https://raw.githubusercontent.com/fabianasd/PitchPerfect/main/imagemApp/home.png)
 
 ### Execution
 
-![Orders](https://raw.githubusercontent.com/fabianasd/PitchPerfect/master/imagemApp/execution.png)
+![Orders](https://raw.githubusercontent.com/fabianasd/PitchPerfect/main/imagemApp/execution.png)
